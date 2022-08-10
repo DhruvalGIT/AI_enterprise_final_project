@@ -31,16 +31,20 @@ Techstack of Musicble
 
 ## Screenshot
 1. Dashboard of Musicble
-![plot](./screenshot/001-login-page.png)
+![plot]![image](https://user-images.githubusercontent.com/105757232/183992655-585ff843-ae0a-485d-bc0d-a65f49a85879.png)
+
 
 2. Social Login via <b>Spotify</b>
-![plot](./screenshot/002-spotify-social-login.png)
+![image](https://user-images.githubusercontent.com/105757232/183992760-2f144b3c-3962-4789-93ba-9d588ea2e9b8.png)
+
 
 3. Simple Dashboard
-![plot](./screenshot/003-dashboard.png)
+![image](https://user-images.githubusercontent.com/105757232/183992884-e8484b5e-41c5-44be-9417-1540b799c8a5.png)
+
 
 4. Features of Dashboard
-![plot](./screenshot/004-dashboard-featurea.png)
+![image](https://user-images.githubusercontent.com/105757232/183992996-3902bc14-a5d0-4dab-8c1c-ca3fd2c6eea4.png)
+
     1. Side bar of the application (Home | Explore | More)
     2. Thumbnail of searched song | Suggestions
     3. Previously played songs
